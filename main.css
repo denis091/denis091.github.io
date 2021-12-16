@@ -1,10 +1,12 @@
-
+html {
+  overflow-x: hidden;
+}
 
 body {
   background-image: url(images/background-5431314_960_720.jpg);
   color: black;
   font-family: acumin-pro, system-ui, sans-serif;
-  font-size: 16px;
+  font-size: 50px;
 	margin: 0;
 	padding: 0;
 }
